@@ -1,5 +1,8 @@
 _repo: Sommerleutnants-b-Die-Geschichte-einer-achtwochigen-Ubung_75388
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75388-h/images/cover.jpg
 creator:
   author:
     agent_name: Bloem, Walter
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Walter_Bloem
     - https://de.wikipedia.org/wiki/Walter_Bloem
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75388#Sommerleutnants-b-Die-Geschichte-einer-achtwochigen-Ubung
 gutenberg_issued: '2025-02-16'
 gutenberg_type: Text
 identifiers:
